@@ -3,10 +3,16 @@ public class Main {
 
     public static void main(String[] args) {
 
+//CREDIT GOES TO VLADAMIR FOR HELPING US AND HAVING EXTREME PATIENCE AND KINDESS//
+
         Scanner scanner = new Scanner(System.in);
 
         int hexidecimalAnswer = 0;
         long decimal = 0;
+
+
+
+
 
         System.out.print("Enter a hexadecimal number: ");
         String hex = scanner.next();
